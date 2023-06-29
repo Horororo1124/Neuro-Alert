@@ -1,10 +1,6 @@
 # Neuro-Alert
 Identification of stroke precursor symptoms through facial paralysis( 안면 마비를 통한 뇌졸중 전조 증상 파악 )
 
-
-![image](https://github.com/KUFishddd/Neuro-Alert/assets/93639704/b88ef8da-9be3-4bb7-98f3-060556531bf3)
-![image](https://github.com/KUFishddd/Neuro-Alert/assets/93639704/29572f3e-f435-4aa9-adac-3ae3c12e9459)
-![image](https://github.com/KUFishddd/Neuro-Alert/assets/93639704/35fd163a-6c6f-494f-bbef-764a0d96d30c)
 ![image](https://github.com/KUFishddd/Neuro-Alert/assets/93639704/57f33428-a95d-4eae-aeea-c3ae28b78b0d)
 ![image](https://github.com/KUFishddd/Neuro-Alert/assets/93639704/af3e2b14-2ea3-49d3-8687-b93099b959d5)
 ![image](https://github.com/KUFishddd/Neuro-Alert/assets/93639704/7f67dbe3-9bf8-43f4-a2c8-4a8a6eefb4cc)
